@@ -1,0 +1,6 @@
+{
+  "name": "Coach Growth OS",
+  "description": "Internal outreach CRM and client-delivery workspace for Coach Growth OS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

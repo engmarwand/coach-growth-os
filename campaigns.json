@@ -1,0 +1,64 @@
+[
+  {
+    "id": "camp-coach-acquisition",
+    "name": "Coaching Client On-demand Acquisition",
+    "description": "3-step sequence covering DM organization + simple personal outreach check.",
+    "createdAt": "2026-09-06T12:18:00.000Z",
+    "updatedAt": "2026-09-06T12:18:00.000Z",
+    "enrollmentCount": 0,
+    "steps": [
+      {
+        "id": "step-fit-1",
+        "stepNumber": 1,
+        "delayDays": 0,
+        "subject": "Quick question for you, {{Name}}",
+        "body": "Hey {{Name}},\n\nAre you still manually managing your coaching leads, or do you have a system to keep track of who to follow up with?\n\nI build tailored lead-tracking workspaces specifically for coaches. It pulls your client inquiries into one dashboard so you always know exactly who needs a message today without digging through scattered Instagram DMs, sheets, or random notes.\n\nWould you be open to a quick look at a 2-minute walkthrough of the layout?\n\nBest,\n[My Name]\nCoach Growth OS"
+      },
+      {
+        "id": "step-fit-2",
+        "stepNumber": 2,
+        "delayDays": 3,
+        "subject": "Re: Quick question for you, {{Name}}",
+        "body": "Hey {{Name}},\n\nJust bumping this in case your inbox has been busy.\n\nI build custom lead trackers to help coaches focus purely on coaching while the system ensures follow-ups never slip through the cracks.\n\nLet me know if you'd like to take a look at the short demo.\n\nBest,\n[My Name]\nCoach Growth OS"
+      },
+      {
+        "id": "step-fit-3",
+        "stepNumber: 3,
+        "delayDays": 5,
+        "subject": "Closing the loop, {{Name}}?",
+        "body": "Hey {{Name}},\n\nLast message from me. If your current lead system is already working well, no worries at all.\n\nIf you ever want a simpler way to organize leads, follow-ups, booked calls, clients, and revenue, I’d be happy to show you what I’m building.\n\nBest,\n[My Name]\nCoach Growth OS"
+      }
+    ]
+  },
+  {
+    "id": "camp-pipeline-revamp",
+    "name": "Manual Tracker Recovery Campaign",
+    "description": "3-step system focused on recovering coaches lost in manual spreadsheets.",
+    "createdAt": "2026-09-06T12:18:00.000Z",
+    "updatedAt": "2026-09-06T12:18:00.000Z",
+    "enrollmentCount": 0,
+    "steps": [
+      {
+        "id": "step-bus-1",
+        "stepNumber": 1,
+        "delayDays": 0,
+        "subject": "{{Name}} — stopping lead leakage",
+        "body": "Hey {{Name}},\n\nI know how exhausting it is to balance actual coaching with the daily overhead of keeping track of prospective clients.\n\nI build custom, simple trackers for coaches that centralize incoming leads, schedule automated follow-up reminders, and keep your booked calls/revenue organized in one single view.\n\nIf you're currently managing things manually and want a clean, stress-free workspace built around your coaching flow, let me know if you'd like to check out a quick demo.\n\nBest,\n[My Name]\nCoach Growth OS"
+      },
+      {
+        "id": "step-bus-2",
+        "stepNumber: 2,
+        "delayDays": 3,
+        "subject": "Re: {{Name}} — stopping lead leakage",
+        "body": "Hey {{Name}},\n\nQuick bump here in case my previous note was lost in the shuffle.\n\nI design simple workspaces for coaches so they stop losing potential coaching clients to sloppy DM or spreadsheet tracking.\n\nLet me know if you are open to taking a look at a 3-minute video overview.\n\nBest,\n[My Name]\nCoach Growth OS"
+      },
+      {
+        "id": "step-bus-3",
+        "stepNumber: 3,
+        "delayDays": 5,
+        "subject": "Simpler coaching workflow?",
+        "body": "Hey {{Name}},\n\nNo pressure at all - if you're fully satisfied with your current DM/email outreach setup, feel free to ignore this!\n\nJust wanted to offer one final resource: a short, recorded video of how online business coaches are automating their check-ins and client tracking. If you'd like to check it out, let me know.\n\nBest,\n[My Name]\nCoach Growth OS"
+      }
+    ]
+  }
+]

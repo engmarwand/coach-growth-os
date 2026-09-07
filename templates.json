@@ -1,0 +1,66 @@
+[
+  {
+    "id": "tpl-direct-person",
+    "name": "Direct Pitch — Fitness Coach Focus",
+    "category": "Initial Pitch — Fitness Coach",
+    "subject": "Quick question for you, {{Name}}",
+    "body": "Hey {{Name}},\n\nAre you still manually managing your coaching leads, or do you have a system to keep track of who to follow up with?\n\nI build tailored lead-tracking workspaces specifically for coaches. It pulls your client inquiries into one dashboard so you always know exactly who needs a message today without digging through scattered Instagram DMs, sheets, or random notes.\n\nWould you be open to a quick look at a 2-minute walkthrough of the layout?\n\nBest,\n[My Name]\nCoach Growth OS",
+    "tags": ["direct", "personal", "fitness", "leads"]
+  },
+  {
+    "id": "tpl-pitch-help",
+    "name": "Help-First Pitch — General Coach Focus",
+    "category": "Initial Pitch — General Coach",
+    "subject": "{{Name}} — stopping lead leakage",
+    "body": "Hey {{Name}},\n\nI know how exhausting it is to balance actual coaching with the daily overhead of keeping track of prospective clients.\n\nI build custom, simple trackers for coaches that centralize incoming leads, schedule automated follow-up reminders, and keep your booked calls/revenue organized in one single view.\n\nIf you're currently managing things manually and want a clean, stress-free workspace built around your coaching flow, let me know if you'd like to check out a quick demo.\n\nBest,\n[My Name]\nCoach Growth OS",
+    "tags": ["coaching", "workspace", "general", "help-first"]
+  },
+  {
+    "id": "tpl-dm-fatigue",
+    "name": "DM Fatigue Pitch — Business Coach Focus",
+    "category": "Initial Pitch — Business Coach",
+    "subject": "A question about your lead flow, {{Name}}",
+    "body": "Hey {{Name}},\n\nMost coaches I speak with tell me they love the coaching, but absolutely hate the feeling of losing potential clients in their Instagram or email inbox because they forgot to follow up.\n\nI design custom CRM and follow-up boards for active coaches to make sure no prospect falls through the cracks.\n\nWould you be open to seeing a quick 3-minute video showing how it keeps lead flow organized and simple?\n\nBest,\n[My Name]\nCoach Growth OS",
+    "tags": ["dm-fatigue", "business", "organization", "leads"]
+  },
+  {
+    "id": "tpl-fu1-simple",
+    "name": "Follow-Up — Simple Check (No Reply)",
+    "category": "Follow-Up 1 — No Reply",
+    "subject": "Re: Quick question for you, {{Name}}",
+    "body": "Hey {{Name}},\n\nJust bumping this in case your inbox has been busy.\n\nI build custom lead trackers to help coaches focus purely on coaching while the system ensures follow-ups never slip through the cracks.\n\nLet me know if you'd like to take a look at the short demo.\n\nBest,\n[My Name]\nCoach Growth OS",
+    "tags": ["followup", "quick", "bump"]
+  },
+  {
+    "id": "tpl-fu2-stress",
+    "name": "Follow-Up — Low Pressure De-stressing",
+    "category": "Follow-Up 2 — Low-Pressure Follow-Up",
+    "subject": "Simpler coaching workflow?",
+    "body": "Hey {{Name}},\n\nNo pressure at all, but if managing client follow-ups across scattered spreadsheets and DMs is causing any headache, I'd be happy to show you how we solve that.\n\nIf not, feel free to ignore this and I wish you nothing but the best with your coaching!\n\nBest,\n[My Name]\nCoach Growth OS",
+    "tags": ["followup", "low-pressure"]
+  },
+  {
+    "id": "tpl-proposal-simple",
+    "name": "Custom Setup Proposal",
+    "category": "Proposal Follow-Up",
+    "subject": "Tailored coaching workspace for {{Name}}",
+    "body": "Hey {{Name}},\n\nGreat connecting! As promised, here is the direct scope for building your customized workspace:\n\n• Centralized lead pipeline tailored exactly to your client intake\n• Daily dashboard with automated follow-up alerts\n• Setup and data migration from your current sheets/notes\n• 30 days of direct support\n\nOne-time Setup: {{DealValue}}\n\nLet me know if this sounds good to you and if you'd like to get started this week!\n\nBest,\n[My Name]\nCoach Growth OS",
+    "tags": ["proposal", "pricing", "custom"]
+  },
+  {
+    "id": "tpl-onboarding-welcome",
+    "name": "Client Welcome & Onboarding",
+    "category": "Client Onboarding",
+    "subject": "Welcome, {{Name}}! Next steps for your workspace",
+    "body": "Hey {{Name}},\n\nThrilled to build your custom coaching CRM!\n\nHere are the 2 quick things to get us moving:\n\n1. Intake Details: Drop a list of your coaching packages and any current forms you use in a quick reply.\n2. Kickoff: Grab a 15-minute slot on my calendar so we can review the initial layout together: [Insert Booking Link]\n\nI'll have your initial system draft ready within 48–72 hours!\n\nBest,\n[My Name]\nCoach Growth OS",
+    "tags": ["onboarding", "welcome", "kickoff"]
+  },
+  {
+    "id": "tpl-breakup-person",
+    "name": "Closing the Loop (Sign-Off)",
+    "category": "Low-Pressure Sign-Off",
+    "subject": "Closing the loop for now, {{Name}}",
+    "body": "Hey {{Name}},\n\nI assume getting your lead pipeline and follow-up system streamlined isn't a top priority right now — completely understand!\n\nI'll close out your file so I don't clutter your inbox. If you ever find yourself spending too much time digging through inbox logs and spreadsheets in the future, feel free to reach back out.\n\nBest of luck with your coaching!\n\nBest,\n[My Name]\nCoach Growth OS",
+    "tags": ["breakup", "sign-off"]
+  }
+]
